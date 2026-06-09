@@ -61,5 +61,5 @@ Accurate sales forecasting helps companies plan inventory, set budgets, allocate
 3. Use slicers to filter by region, product, or year.
 4. Explore insights on second page.
 
-## 📬 Connect with Me
-[Your LinkedIn URL]
+## 📬 Connect with me
+LinkedIn URL:  https://www.linkedin.com/in/naziya-shamim
