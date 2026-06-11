@@ -49,7 +49,7 @@ Accurate sales forecasting helps companies plan inventory, set budgets, allocate
 ## 📸 Dashboard Screenshots
 ![Dashboard Overview](https://github.com/Naziya-shamim/Sales-Forecasting-Revenue-Analysis/blob/main/Screenshot/Screenshot%202026-06-09%20230502.png)
 ![Insight Page](https://github.com/Naziya-shamim/Sales-Forecasting-Revenue-Analysis/blob/main/Screenshot/Screenshot%202026-06-12%20024120.png)
-![Insight Page]
+![Insight Page](https://github.com/Naziya-shamim/Sales-Forecasting-Revenue-Analysis/blob/main/Screenshot/Screenshot%202026-06-12%20024153.png)
 
 
 ## 📁 Files in Repository
