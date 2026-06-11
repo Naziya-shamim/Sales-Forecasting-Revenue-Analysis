@@ -47,7 +47,8 @@ Accurate sales forecasting helps companies plan inventory, set budgets, allocate
 - Set realistic 2026 targets (normalize difficulty across regions).
 
 ## 📸 Dashboard Screenshots
-![Dashboard Overview](Screenshot%202026-06-09%20230502.png)
+![Dashboard Overview](https://github.com/Naziya-shamim/Sales-Forecasting-Revenue-Analysis/blob/main/Screenshot/Screenshot%202026-06-09%20230502.png)
+![Insight Page]
 
 
 ## 📁 Files in Repository
